@@ -4,7 +4,7 @@
 
 | Apellidos y Nombres                  |
 |--------------------------------------|
-| Nario Germán Reyes Ríos             |
+| Reyes Ríos  Nario Germán            |
 
 ## Propósito del repositorio
 
@@ -21,4 +21,4 @@ Este repositorio tiene como objetivo almacenar y gestionar las implementaciones 
 
 | Apellidos y Nombres                  |
 |--------------------------------------|
-| Nario Germán Reyes Ríos             |
+|  Reyes Ríos  Nario Germán          |
