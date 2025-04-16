@@ -1,4 +1,4 @@
-# Este script contiene errores comunes que violan las normas PEP 8
+git ad# Este script contiene errores comunes que violan las normas PEP 8
 
 from abc import ABC, abstractmethod
 
